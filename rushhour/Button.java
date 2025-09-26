@@ -1,4 +1,3 @@
-package rushhour;
 
 import java.awt.Rectangle;
 

@@ -1,4 +1,3 @@
-package rushhour;
 
 import javax.imageio.ImageIO;
 import javax.swing.JFrame;
