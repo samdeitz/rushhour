@@ -1,4 +1,4 @@
-# 🚗 Snake Game (Java Swing Game)
+# 🚗 Rush Hour (Java Swing Game)
 
 A Java Swing implementation of the classic board game **Rush Hour**.  
 Solve puzzles by moving cars on a 6x6 grid to free the red car and let it escape!
